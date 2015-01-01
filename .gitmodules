@@ -37,3 +37,48 @@
 [submodule "bundle/scss-syntax"]
 	path = bundle/scss-syntax
 	url = git://github.com/cakebaker/scss-syntax.vim.git
+[submodule "bundle/vim-javascript"]
+	path = bundle/vim-javascript
+	url = git://github.com/pangloss/vim-javascript.git
+[submodule "bundle/ctrlp"]
+	path = bundle/ctrlp
+	url = git://github.com/kien/ctrlp.vim.git
+[submodule "bundle/vim-ragtag"]
+	path = bundle/vim-ragtag
+	url = git://github.com/tpope/vim-ragtag.git
+[submodule "bundle/matchit"]
+	path = bundle/matchit
+	url = git://github.com/vim-scripts/matchit.zip.git
+[submodule "bundle/Align"]
+	path = bundle/Align
+	url = git://github.com/vim-scripts/Align.git
+[submodule "bundle/vim-octopress"]
+	path = bundle/vim-octopress
+	url = git://github.com/tangledhelix/vim-octopress.git
+[submodule "bundle/nginx"]
+	path = bundle/nginx
+	url = git://github.com/vim-scripts/nginx.vim.git
+[submodule "bundle/vim-indent-object"]
+	path = bundle/vim-indent-object
+	url = git://github.com/michaeljsmith/vim-indent-object.git
+[submodule "bundle/vimwiki"]
+	path = bundle/vimwiki
+	url = git://github.com/vim-scripts/vimwiki.git
+[submodule "bundle/vim-multiple-cursors"]
+	path = bundle/vim-multiple-cursors
+	url = git://github.com/terryma/vim-multiple-cursors.git
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = git://github.com/bling/vim-airline.git
+[submodule "bundle/delimitMate"]
+	path = bundle/delimitMate
+	url = git://github.com/Raimondi/delimitMate.git
+[submodule "bundle/ack"]
+	path = bundle/ack
+	url = git://github.com/mileszs/ack.vim.git
+[submodule "bundle/vim-snipmate"]
+	path = bundle/vim-snipmate
+	url = git://github.com/garbas/vim-snipmate.git
+[submodule "bundle/vim-addon-mw-utils"]
+	path = bundle/vim-addon-mw-utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
